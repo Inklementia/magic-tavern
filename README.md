@@ -1,2 +1,2 @@
-# magic-tavern
+# Magic Tavern
 Visual novel
